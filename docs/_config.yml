@@ -23,7 +23,7 @@ title: Revving My Vicious Cycle
 description: >- # this means to ignore newlines until "baseurl:"
   Moderating our entropic fate via good data habits.
   Nobody lasts forever.
-  Link rot begets true death.
+  Link rot is a form of death.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
