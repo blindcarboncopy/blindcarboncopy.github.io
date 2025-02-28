@@ -11,3 +11,5 @@ My own expectations are still up in the air. In 2012, during the brief time that
 Anyway, that's post \#1. Now I'm gonna see about figuring out how to properly leverage front matter, and peruse some Jekyll theme demos.
 
 Until the next recurrence.
+
+<script src="https://embed.github.com/view/3d/blindcarboncopy/blindcarboncopy.github.io/blob/main/prevtest.stl"></script>
