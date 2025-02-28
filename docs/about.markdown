@@ -1,18 +1,11 @@
 ---
 layout: page
-title: About
+title: Why
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This site is intended to serve as documentation, foremost for myself. My goals as a hobbyist involve narrow-scope solutions to small-scale/home manufacturing. My hope is that any reader will feel able and compelled to reproduce the projects I've documented here, whether whole, piecemeal, or in distanced imitation.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
+This site was created with Jekyll and the minima theme:
+[minima](https://github.com/jekyll/minima) /
 [jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
