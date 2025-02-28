@@ -12,4 +12,4 @@ Anyway, that's post \#1. Now I'm gonna see about figuring out how to properly le
 
 Until the next recurrence.
 
-<script src="https://embed.github.com/view/3d/blindcarboncopy/blindcarboncopy.github.io/blob/main/prevtest.stl"></script>
+<script src="https://embed.github.com/view/3d/blindcarboncopy/blindcarboncopy.github.io/main/prevtest.stl"></script>
