@@ -27,5 +27,5 @@ Anyway, that's post \#1. Now I'm gonna see about figuring out how to properly le
 
 Until the next recurrence.
 <div class="model-preview">
-<script src="https://embed.github.com/view/3d/blindcarboncopy/blindcarboncopy.github.io/main/MPSM_Ultimate_Duct.stl"></script>
+<script src="https://embed.github.com/view/3d/blindcarboncopy/blindcarboncopy.github.io/main/mpsmduct.stl"></script>
 </div>
